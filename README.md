@@ -7,8 +7,14 @@ LINK TO TRAINING DATA: https://github.com/4vedi/sentiment-analysis/blob/master/t
 LINK TO TESTING DATA: https://github.com/4vedi/sentiment-analysis/blob/master/test_tweets_anuFYb8.csv
  
  
- Word cloud of negative words: 
+ Word cloud of positive words: 
  
- <img src="url">
+ <img src="https://github.com/4vedi/sentiment-analysis/blob/master/Figure_1.png">
+ 
+ 
+ 
+ Frequency distribution of negative words:
+ 
+ 
  
  # RESULT : F1 SCORE IS 0.54

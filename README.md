@@ -15,6 +15,7 @@ LINK TO TESTING DATA: https://github.com/4vedi/sentiment-analysis/blob/master/te
  
  Frequency distribution of negative words:
  
+ <img src="https://github.com/4vedi/sentiment-analysis/blob/master/negative_words_freqdist.png" style="width:500px;height:600px;">
  
  
  # RESULT : F1 SCORE IS 0.54
